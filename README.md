@@ -1,3 +1,11 @@
+<!-- ustj-doi -->
+# Conk: The Permutation Group of Nocks; Ax: An Algebraic Executable Ur-Machine
+
+Sam Atman ~barpub-tarber. *Urbit Systems Technical Journal* 2(1), 2025.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24389651.svg)](https://doi.org/10.5281/zenodo.24389651) [Read on urbitsystems.tech](https://urbitsystems.tech/article/v02-i01/conk-the-permutation-group-of-nocks-ax-an-algebraic-executable-ur-machine)
+<!-- /ustj-doi -->
+
 # Urbit Systems Technical Journal—Template Repo
 
 Welcome, prospective USTJ author.  Please keep the following in mind:
